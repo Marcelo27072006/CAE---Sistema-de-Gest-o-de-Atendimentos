@@ -32,11 +32,14 @@ Dados → Simulados em memória (front-end)
 ---
 
 ## 📂 Estrutura do Projeto
+
+```
 /cae-system
 │
 ├── cae-index.html     # Estrutura principal do sistema
 ├── cae-style.css      # Estilização (UI/UX)
-├── cae-script.js      # Lógica da aplicação (interações e dados)
+└── cae-script.js      # Lógica da aplicação (interações e dados)
+```
 
 ---
 
